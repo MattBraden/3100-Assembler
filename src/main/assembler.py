@@ -5,7 +5,7 @@ Created on Oct 21, 2013
 '''
 import re
 class Assembler:
-   
+    # Testing a change
     outputFile = ""
     def __init__(self):
         # I need to learn more about python
